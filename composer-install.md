@@ -12,8 +12,17 @@ Executar respectivamente no terminal:
    
 **Iniciar composer no projeto PHP**
 
-1. `composer init`
-2. `composer dump-autoload`
+Na raiz do projeto, digite: `composer init` (resposta as perguntas até finalizar)
+
+_Instalar autoload_
+
+1. Digite para instalar: `composer dump-autoload`
+2. Adicione em composer.json o seguinte código: 
+  `"autoload": {
+     "psr-4": {
+          "Treinaweb\\": "src/"
+      },
+   },`
     
    
 **Observaçōes**
