@@ -21,5 +21,12 @@ Executar respectivamente no terminal:
 1. Sempre que precisar instalar dependência: `composer require nome-dependencia`
 2. Sempre que precisar atualizar todas as dependências: `composer update`
 
+ 
+**Pacotes úteis**
 
+- `composer require components/jquery`
+- `composer require blueimp/jquery-file-upload`
+- `composer phpmailer/phpmailer`
+
+ 
 Fonte: https://getcomposer.org/download/
