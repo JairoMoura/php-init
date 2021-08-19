@@ -17,10 +17,10 @@ Na raiz do projeto, digite: `composer init` (resposta as perguntas até finaliza
 _Instalar autoload_
 
 1. Digite para instalar: `composer dump-autoload`
-2. Adicione em composer.json o seguinte código: 
+2. Adicione em _composer.json_ o seguinte código: 
   `"autoload": {
      "psr-4": {
-          "Treinaweb\\": "src/"
+          "MyDir\\": "src/"
       },
    },`
     
