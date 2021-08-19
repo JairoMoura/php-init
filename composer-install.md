@@ -1,7 +1,5 @@
-**Instalar composer**
+**Instalar composer (MacOS)**
 
-
-_Windows_
 
 - Acessar: https://getcomposer.org/download/
 
