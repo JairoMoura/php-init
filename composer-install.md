@@ -8,8 +8,6 @@ Executar respectivamente no terminal:
 3. `php composer-setup.php`
 4. `php -r "unlink('composer-setup.php');"`
 5. `sudo mv composer.phar /usr/local/bin/composer`
-   
-Fonte: https://getcomposer.org/download/
   
    
 **Iniciar composer no projeto PHP**
@@ -22,3 +20,6 @@ Fonte: https://getcomposer.org/download/
 
 1. Sempre que precisar instalar dependência: `composer require nome-dependencia`
 2. Sempre que precisar atualizar todas as dependências: `composer update`
+
+
+Fonte: https://getcomposer.org/download/
