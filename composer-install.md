@@ -23,19 +23,18 @@ _Instalar autoload_
           "MyDir\\": "src/"
       },
    },`
-    
-   
-**Observaçōes**
-
-1. Sempre que precisar instalar dependência: `composer require nome-dependencia`
-2. Sempre que precisar atualizar todas as dependências: `composer update`
-
+  
  
-**Pacotes úteis**
+**Outros pacotes úteis**
 
 - `composer require components/jquery`
 - `composer require blueimp/jquery-file-upload`
 - `composer phpmailer/phpmailer`
+
+ 
+**Observaçōes**
+ 
+- Sempre que precisar atualizar todas as dependências: `composer update`
 
  
 Fonte: https://getcomposer.org/download/
