@@ -12,3 +12,7 @@ Executar respectivamente no terminal (conforme link):
 5. `sudo mv composer.phar /usr/local/bin/composer`
 
 
+**Iniciar composer no projeto PHP**
+
+1. `composer init`
+2. `composer dump-autoload`
