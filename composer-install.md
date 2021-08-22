@@ -30,6 +30,7 @@ _Instalar autoload_
 - `composer require components/jquery`
 - `composer require blueimp/jquery-file-upload`
 - `composer phpmailer/phpmailer`
+- `composer require aws/aws-sdk-php`
 
  
 **Observaçōes**
