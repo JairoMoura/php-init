@@ -33,7 +33,7 @@ _Instalar autoload_
 - `composer require aws/aws-sdk-php`
 
  
-**Observaçōes**
+**Observações**
  
 - Sempre que precisar atualizar todas as dependências: `composer update`
 
